@@ -1,0 +1,47 @@
+Nomaldog
+・AllCharactorMove.js
+・ControlNF.js
+・DynamicItemManager.js
+
+くらむぼんさん(クレジット記載不要)
+・DataCacheBlocker.js
+
+Yamiさん(準公式プラグインのためクレジット記載不要)
+・Yami_SkipTitle.js
+
+サンシロ https://twitter.com/rev2nymさん(MITライセンス：クレジット記載必要？)
+・SAN_MapGenerator.js
+
+TOMY (Kamesoft)さん(MITライセンス：できれはクレジット記載必要)
+・KMS_Minimap.js
+
+
+Yanflさん（Yanfly Engineとしてクレジット記載)
+・YEP_PartySystem.js
+
+tomoaky (http://hikimoki.sakura.ne.jp/)さん(MITライセンス：クレジット記載必要？)
+・TMRegionPassable.js
+
+トリアコンタンさん(MITライセンス：クレジット記載必要？)
+DTextPicture.js
+MessageTriggerSe.js
+
+フトコロさん(MITライセンス：クレジット記載必要？)
+FTKR_ExBattleEvent.js
+FTKR_ItemSubCommand.js
+
+蔦森くいなさん(MITライセンス：クレジット記載必要？)
+HideItemNumber.js
+
+krmbn0576さん(クレジット記載不要)
+・OggOnly.js
+　・stbvorbis.js
+　・stbvorbis_asm.js
+
+未記入
+FaceAnimetion.js
+GraphicalDesignMode.js
+KNH_CharacterShadow.js
+Torigoya_SaveCommand.js
+CustomizeMaxSaveFile.js
+GALV_MessageSoundEffects.js
